@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto');
 
 body{
     background-image: url("../images/image.png");
@@ -6,6 +6,27 @@ body{
     background-size: cover;
     margin: 0 auto;
     width: 60%;
-
 }
 
+.titel{
+    font-family: 'Playfair Display', serif;
+    color: blue;
+    margin-top: 400px;
+}
+
+h1, h2{
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 48pt;
+}
+
+h2{
+    font-size: 36pt;
+    font-weight: 400;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
