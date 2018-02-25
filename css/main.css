@@ -1,5 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900');
+
 body{
     background-image: url("../images/image.png");
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 0 auto;
+    width: 60%;
+
 }
+
